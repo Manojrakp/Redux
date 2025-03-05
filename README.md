@@ -1,7 +1,6 @@
+RoadMap form the Scratch
 ---
-
  Setting Up Redux in Node.js  
-
 To get started with Redux in a Node.js environment, follow these steps:  
 
 1. Verify Node.js Installation: Ensure Node.js is installed by running `node -v` and `npm -v` in the command prompt.  
